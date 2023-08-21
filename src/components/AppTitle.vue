@@ -15,6 +15,15 @@ export default {
 
 <template>
 
-<h1>La mia prima app con Vite!</h1>
+<h1 class="hero-title">La mia prima app con Vite!</h1>
 
 </template> 
+
+<style>
+
+.hero-title {
+    font-size: 5rem;
+    color: #ffaaff;
+}
+
+</style>
